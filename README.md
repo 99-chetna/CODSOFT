@@ -6,7 +6,7 @@ Hello Everyone, This repository showcase my work on the projects assigned to me 
 
 Preface 
 
-During my Internship with CodSoft, I have been given a series of challenging and exciting tasks to work on which are very helpful in gain more knowlegde. This repository serves as a centralized location for storing and showcasing my progress throughout the internship. Each task is stored in a separate folder to provide a comprehensive overview. Each project showcases my skills in data analysis, machine learning, and problem-solving.
+During my Internship with CodSoft, I have been given a series of challenging and exciting tasks to work on which are very helpful in gaining more knowlegde. This repository serves as a centralized location for storing and showcasing my progress throughout the internship. Each task is stored in a separate folder to provide a comprehensive overview. Each project showcases my skills in data analysis, machine learning, and problem-solving.
 
 Task 1
 
