@@ -18,4 +18,4 @@ Iris Flower Classification Description: The Iris Flower Classification project i
 
 Task 3
 
-Credit Card Fraud Detection description:
+Credit Card Fraud Detection Description:
