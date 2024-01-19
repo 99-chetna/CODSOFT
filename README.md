@@ -11,3 +11,9 @@ During my Internship with CodSoft, I have been given a series of challenging and
 Task 1
 
 Titanic Survival Detection Description: This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, data cleaning,  exploratory data analysis and building  model to predict survival probabilities. 
+
+Task 2 
+
+Iris Flower Classification Description: The Iris Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify iris flowers into different species based on their sepal and petal measurements.
+
+
