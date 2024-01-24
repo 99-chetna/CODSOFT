@@ -20,8 +20,7 @@ Task 2
 Iris Flower Classification Description: The Iris Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify iris flowers into different species based on their sepal and petal measurements. In this dataset I have used Logistic Regression Algorithm to Train and test the model. 
 
 Task 3
-
-Credit Card Fraud Detection Description:
+Sales Prediction using Python Description: This project focuses on Machine learning Algorithms, Accuracy and Prediction  of the Sales independtly and collectibely. It is representing Factors dat affect sale. This model not only analyize the sales of given attributes for getting the present view of sales and moreover predicts the future increment or decrement of sales.
 
 
 LINK :https://www.codsoft.in
