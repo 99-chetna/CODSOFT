@@ -23,5 +23,8 @@ Task 3
 
 Sales Prediction using Python Description: This project focuses on Machine learning Algorithms, Accuracy and Prediction  of the Sales independtly and collectibely. It is representing Factors dat affect sale. This model not only analyize the sales of given attributes for getting the present view of sales and moreover predicts the future increment or decrement of sales.
 
+Task 4
+
+Credit Card Fraud Detection Description: This project focuses on Machine learning Algorithms to detect Frauds. This model not only analyize the given dataset but we also counted the total Frauds and geniune transactions.
 
 LINK :https://www.codsoft.in
