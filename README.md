@@ -12,8 +12,8 @@ Preface
 During my Internship with CodSoft, I have been given a series of challenging and exciting tasks to work on which are very helpful in gaining more knowlegde. This repository serves as a centralized location for storing and showcasing my progress throughout the internship. Each task is stored in a separate folder to provide a comprehensive overview. Each project showcases my skills in data analysis, machine learning, and problem-solving.
 
 Task 1
-![image](https://github.com/99-chetna/CODSOFT/assets/112334463/f163e3e8-9e8c-4cda-bd5f-1355d96b68eb)
 
+![image](https://github.com/99-chetna/CODSOFT/assets/112334463/f163e3e8-9e8c-4cda-bd5f-1355d96b68eb)
 
 Titanic Survival Detection Description: This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, data cleaning,  exploratory data analysis and building  model to predict survival probabilities. 
 
